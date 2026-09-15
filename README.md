@@ -1,78 +1,85 @@
-<h1 align="center">Hi 👋, I'm Cheryl (Hei Yu) Chau</h1>
+<div align="center">
 
-<h3 align="center">🎓 First-Class Computer Science & Artificial Intelligence Graduate</h3>
+# Hi 👋, I'm Cheryl (Hei Yu) Chau
 
-<p align="center">
-Artificial Intelligence • Machine Learning • Data Science • Web Development
-</p>
+### 🎓 First-Class Computer Science & Artificial Intelligence Graduate
 
----
+**AI & Machine Learning · Data · Software Engineering**
 
-## 👨‍💻 About Me
+📍 Swansea University Graduate · 💻 Python · 🤖 AI/ML · 📊 Data
 
-🎓 First-Class Honours graduate from Swansea University (Overall Average: **77.06%**)
+<br>
 
-💡 Passionate about Artificial Intelligence, Machine Learning, Data Science and Web Development.
+*Building practical, responsible and user-focused technology.*
 
-🚀 Currently looking for graduate opportunities where I can contribute, continue learning and build impactful software.
+</div>
 
 ---
 
-## 🚀 Featured Project
+## 👩‍💻 About Me
 
-### Human-in-the-Loop Intrusion Detection System
+I'm a **First-Class Computer Science with Artificial Intelligence graduate** from Swansea University.
 
-My final-year dissertation focused on developing an intelligent intrusion detection system for smart power grid environments using Machine Learning, Explainable AI and a Streamlit dashboard to support human decision-making.
+I enjoy using **AI, data and software engineering** to solve practical problems, with a particular interest in machine learning, data analysis and building technology that is understandable and useful to people.
+
+* 🎓 **BSc (Hons) Computer Science with Artificial Intelligence — First Class**
+* 🐍 Strongest in **Python**
+* 🤖 Interested in **AI, Machine Learning & Data**
+* 🛡️ Interested in **responsible and safety-aware AI**
+* ☁️ Currently developing my knowledge of **AWS & Cloud AI**
+* 💼 Open to **graduate and junior opportunities**
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Featured Projects
 
-### Languages
+| 🛡️ H-IDS                                                                   | 🗺️ Cymru Hunt                                                     | 🚦 SPARK Ada                                            |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------- |
+| **Hierarchical Intrusion Detection System**                                 | **Full-Stack Web Application**                                     | **Traffic Light Controller**                            |
+| Human-in-the-loop ML system for detecting cyberattacks in smart power grids | Location-based application built with Laravel, MySQL and REST APIs | Formally verified safety-focused traffic control system |
+| `Python` `ML` `Streamlit`                                                   | `Laravel` `PHP` `MySQL`                                            | `SPARK Ada` `Formal Verification`                       |
+| **Final Year Project**                                                      | **96%**                                                            | **92%**                                                 |
 
-- Python
-- SQL
-- Java
-- PHP
-- JavaScript
+---
 
-### AI & Data
+## 🛠️ Tech Stack
 
-- Machine Learning
-- scikit-learn
-- Streamlit
-- Explainable AI
-- Data Analysis
+**Languages**
 
-### Web Development
+`Python` · `SQL` · `JavaScript` · `PHP` · `Java` · `Ada`
 
-- Laravel
-- REST APIs
-- HTML
-- CSS
+**AI & Data**
 
-### Databases
+`Machine Learning` · `scikit-learn` · `TensorFlow` · `PyTorch` · `Data Analysis` · `Feature Engineering`
 
-- MySQL
-- PostgreSQL
-- MongoDB
+**Development**
 
-### Tools
+`REST APIs` · `Streamlit` · `Laravel` · `MVC` · `HTML/CSS`
 
-- Git
-- Docker
+**Databases & Tools**
+
+`MySQL` · `PostgreSQL` · `MongoDB` · `Git` · `Docker` · `Jupyter` · `Plotly`
 
 ---
 
 ## 🌱 Currently
 
-- 📚 Studying AWS Certified AI Practitioner
-- 💼 Seeking graduate opportunities in AI, Machine Learning, Data Science and Web Development
+☁️ Developing my knowledge of **AWS and cloud technologies**
+
+🤖 Exploring new developments in **AI & Machine Learning**
+
+💼 Looking for opportunities across **AI, Data, Automation & Software Engineering**
 
 ---
 
-## 📫 Connect with Me
+<div align="center">
 
-- 💼 LinkedIn
-- 💻 GitHub
-- 📧 chauheiyu124@gmail.com
+### 📫 Let's Connect
+
+[LinkedIn](YOUR-LINKEDIN-URL) · [GitHub](YOUR-GITHUB-URL) · [Email](mailto:chauheiyu124@gmail.com)
+
+<br>
+
+**Thanks for visiting my profile! 👋**
+
+</div>
