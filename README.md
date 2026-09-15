@@ -2,15 +2,19 @@
 
 # Hi 👋, I'm Cheryl (Hei Yu) Chau
 
-### 🎓 First-Class Computer Science & Artificial Intelligence Graduate
+### Computer Science & Artificial Intelligence Graduate
 
-**AI & Machine Learning · Data · Software Engineering**
+**AI & Machine Learning • Data • Software Engineering**
 
-📍 Swansea University Graduate · 💻 Python · 🤖 AI/ML · 📊 Data
+I build practical solutions using AI, data and software to solve real-world problems.
 
 <br>
 
-*Building practical, responsible and user-focused technology.*
+<a href="#-featured-projects">View My Work</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="YOUR_GITHUB_URL">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="YOUR_CV_URL">CV</a>
 
 </div>
 
@@ -18,68 +22,164 @@
 
 ## 👩‍💻 About Me
 
-I'm a **First-Class Computer Science with Artificial Intelligence graduate** from Swansea University.
+I'm a **First-Class Computer Science with Artificial Intelligence graduate**
+from **Swansea University**.
 
-I enjoy using **AI, data and software engineering** to solve practical problems, with a particular interest in machine learning, data analysis and building technology that is understandable and useful to people.
+I enjoy solving real-world problems using **AI, data and software**, with a
+particular interest in machine learning, data analysis and responsible,
+safety-aware technology.
 
-* 🎓 **BSc (Hons) Computer Science with Artificial Intelligence — First Class**
-* 🐍 Strongest in **Python**
-* 🤖 Interested in **AI, Machine Learning & Data**
-* 🛡️ Interested in **responsible and safety-aware AI**
-* ☁️ Currently developing my knowledge of **AWS & Cloud AI**
-* 💼 Open to **graduate and junior opportunities**
+🎓 **First-Class BSc (Hons) Computer Science with Artificial Intelligence**  
+📍 **Swansea University — Graduated 2026**  
+🐍 **Strongest language: Python**
+
+---
+
+## 🛠️ Skills
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=flat">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white">
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🛡️ H-IDS                                                                   | 🗺️ Cymru Hunt                                                     | 🚦 SPARK Ada                                            |
-| --------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------- |
-| **Hierarchical Intrusion Detection System**                                 | **Full-Stack Web Application**                                     | **Traffic Light Controller**                            |
-| Human-in-the-loop ML system for detecting cyberattacks in smart power grids | Location-based application built with Laravel, MySQL and REST APIs | Formally verified safety-focused traffic control system |
-| `Python` `ML` `Streamlit`                                                   | `Laravel` `PHP` `MySQL`                                            | `SPARK Ada` `Formal Verification`                       |
-| **Final Year Project**                                                      | **96%**                                                            | **92%**                                                 |
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🛡️ H-IDS
+
+**Hierarchical Intrusion Detection System**
+
+Human-in-the-loop machine learning system for detecting cyberattacks in smart power grids.
+
+`Python` `ML` `Streamlit`
+
+**Final Year Project**
+
+<a href="YOUR_HIDS_REPO">View Project →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🗺️ Cymru Hunt
+
+**Full-Stack Web Application**
+
+Location-based web application with authentication, REST APIs, maps and social features.
+
+`Laravel` `PHP` `MySQL`
+
+**96%**
+
+<a href="YOUR_CYMRU_HUNT_REPO">View Project →</a>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚦 SPARK Ada
+
+**Traffic Light Controller**
+
+Formally verified traffic control system designed around safe state transitions and defensive programming.
+
+`SPARK Ada` `Formal Methods`
+
+**92%**
+
+<a href="YOUR_SPARK_REPO">View Project →</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Experience & Education
 
-**Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Python` · `SQL` · `JavaScript` · `PHP` · `Java` · `Ada`
+### 🎓 Education
 
-**AI & Data**
+**Swansea University**
 
-`Machine Learning` · `scikit-learn` · `TensorFlow` · `PyTorch` · `Data Analysis` · `Feature Engineering`
+BSc (Hons) Computer Science with Artificial Intelligence
 
-**Development**
+**First-Class Honours • 2023–2026**
 
-`REST APIs` · `Streamlit` · `Laravel` · `MVC` · `HTML/CSS`
+</td>
 
-**Databases & Tools**
+<td width="50%" valign="top">
 
-`MySQL` · `PostgreSQL` · `MongoDB` · `Git` · `Docker` · `Jupyter` · `Plotly`
+### 💼 Experience
+
+**Student Ambassador**  
+Supporting prospective students and university events
+
+**Clearing Helpline Operator**  
+Supporting applicants during Clearing
+
+**PASS Leader**  
+Providing peer academic support
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🌱 Currently
 
-☁️ Developing my knowledge of **AWS and cloud technologies**
+☁️ Developing my knowledge of **AWS & cloud technologies**
 
-🤖 Exploring new developments in **AI & Machine Learning**
+🤖 Exploring developments in **AI and Machine Learning**
 
-💼 Looking for opportunities across **AI, Data, Automation & Software Engineering**
+💼 Open to graduate opportunities across **AI, Data, Automation and Software Engineering**
 
 ---
 
 <div align="center">
 
-### 📫 Let's Connect
+## 📫 Get in Touch
 
-[LinkedIn](YOUR-LINKEDIN-URL) · [GitHub](YOUR-GITHUB-URL) · [Email](mailto:chauheiyu124@gmail.com)
+Interested in my work or want to connect?
 
-<br>
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="YOUR_GITHUB_URL">GitHub</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="mailto:chauheiyu124@gmail.com">Email</a>
 
-**Thanks for visiting my profile! 👋**
+<br><br>
+
+**AI • DATA • SOFTWARE**
 
 </div>
