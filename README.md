@@ -32,7 +32,7 @@ safety-aware technology.
 🎓 **First-Class BSc (Hons) Computer Science with Artificial Intelligence**  
 📍 **Swansea University — Graduated 2026**  
 🐍 **Strongest language: Python**  
-☁️ **AWS Certified AI Practitioner**
+☁️ <a href="https://www.credly.com/badges/b30c8063-acd3-4d28-963a-b59b7d00dfa2/linked_in_profile">AWS Certified AI Practitioner</a>**
 
 ---
 
