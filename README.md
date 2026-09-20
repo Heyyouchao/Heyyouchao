@@ -14,7 +14,7 @@ I build practical solutions using AI, data and software to solve real-world prob
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/cheryl-chau-967840229/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="./Hei_Yu_Chau_CV.pdf">CV</a>
+<a href="./Hei_Yu_Chau_CV_AI.pdf">CV</a>
 
 </div>
 
