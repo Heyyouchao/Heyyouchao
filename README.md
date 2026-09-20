@@ -96,7 +96,7 @@ Location-based web application with authentication, REST APIs, maps and social f
 
 **96%**
 
-<a href="YOUR_CYMRU_HUNT_REPO">View Project →</a>
+<a href="https://github.com/Heyyouchao/cymru-hunt">View Project →</a>
 
 </td>
 
@@ -106,13 +106,14 @@ Location-based web application with authentication, REST APIs, maps and social f
 
 **Traffic Light Controller**
 
-Formally verified traffic control system designed around safe state transitions and defensive programming.
+Formally verified, safety-focused traffic control system designed to prevent unsafe signal states.
 
-`SPARK Ada` `Formal Methods`
+`SPARK Ada` `Formal Verification`
 
 **92%**
 
-<a href="YOUR_SPARK_REPO">View Project →</a>
+*Repository currently being prepared.*
+
 
 </td>
 
