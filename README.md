@@ -12,9 +12,9 @@ I build practical solutions using AI, data and software to solve real-world prob
 
 <a href="#-featured-projects">View My Work</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="YOUR_GITHUB_URL">GitHub</a>
+<a href="https://www.linkedin.com/in/cheryl-chau-967840229/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="YOUR_CV_URL">CV</a>
+<a href="./Hei_Yu_Chau_CV.pdf">CV</a>
 
 </div>
 
@@ -31,7 +31,8 @@ safety-aware technology.
 
 🎓 **First-Class BSc (Hons) Computer Science with Artificial Intelligence**  
 📍 **Swansea University — Graduated 2026**  
-🐍 **Strongest language: Python**
+🐍 **Strongest language: Python**  
+☁️ **AWS Certified AI Practitioner**
 
 ---
 
@@ -114,7 +115,6 @@ Formally verified, safety-focused traffic control system designed to prevent uns
 
 *Repository currently being prepared.*
 
-
 </td>
 
 </tr>
@@ -159,11 +159,13 @@ Providing peer academic support
 
 ## 🌱 Currently
 
-☁️ Developing my knowledge of **AWS & cloud technologies**
+☁️ **AWS Certified AI Practitioner**
 
-🤖 Exploring developments in **AI and Machine Learning**
+🤖 Learning more about **AI and Machine Learning**
 
-💼 Open to graduate opportunities across **AI, Data, Automation and Software Engineering**
+📊 Building my skills in **data analysis and AI**
+
+💼 Looking for graduate opportunities in **AI, Data, Automation and Software Engineering**
 
 ---
 
@@ -173,9 +175,9 @@ Providing peer academic support
 
 Interested in my work or want to connect?
 
-<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+<a href="https://www.linkedin.com/in/cheryl-chau-967840229/">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-<a href="YOUR_GITHUB_URL">GitHub</a>
+<a href="https://github.com/Heyyouchao">GitHub</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
 <a href="mailto:chauheiyu124@gmail.com">Email</a>
 
