@@ -80,7 +80,7 @@ Human-in-the-loop machine learning system for detecting cyberattacks in smart po
 
 **Final Year Project**
 
-<a href="YOUR_HIDS_REPO">View Project →</a>
+<a href="https://github.com/Heyyouchao/FYP">View Project →</a>
 
 </td>
 
