@@ -113,7 +113,7 @@ Formally verified, safety-focused traffic control system designed to prevent uns
 
 **92%**
 
-*Repository currently being prepared.*
+<a href="https://github.com/Heyyouchao/spark-ada-traffic-light-controller">View Project →</a>
 
 </td>
 
